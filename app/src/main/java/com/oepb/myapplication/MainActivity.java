@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        username = findViewById(R.id.username);
+        username = findViewById(R.id.usuario);
         password = findViewById(R.id.password);
         loginButton = findViewById(R.id.loginButton);
 

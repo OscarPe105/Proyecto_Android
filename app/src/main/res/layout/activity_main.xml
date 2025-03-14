@@ -37,12 +37,12 @@
                 android:textStyle="bold" />
 
             <EditText
-                android:id="@+id/username"
+                android:id="@+id/usuario"
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
                 android:layout_marginTop="40dp"
                 android:drawablePadding="8dp"
-                android:hint="Username"
+                android:hint="Usuario"
                 android:padding="8dp"
                 android:textColor="@color/black"
                 android:textColorHighlight="@color/cardview_dark_background"
@@ -87,6 +87,6 @@
         android:text="@string/registrarse"
         android:textAlignment="center"
         android:textColor="#5C6BC0"
-        android:textSize="14sp" />
+        android:textSize="16sp" />
 
 </LinearLayout>
